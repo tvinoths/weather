@@ -1,0 +1,14 @@
+#body {
+      position: relative; 
+  }
+  #search {padding-top:50px;height:auto;color: black; background-color: #1E88E5;}
+  #result {padding-top:50px;height:auto;color: black; background-color: cyan;}
+  #jsondata {padding-top:50px;height:auto;color: black; background-color: #673ab7;}
+
+  .left{
+      float: left;
+      padding-right: 10px;
+  }
+.right{
+    float: right;
+}
